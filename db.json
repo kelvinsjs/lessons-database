@@ -74,14 +74,14 @@
 				"startTime": "10.35",
 				"endTime": "12.10",
 				"aval": "always"
-			}
+			},
 			{
 				"name": "Фізика (ГІС)",
 				"number": "3",
 				"startTime": "12.20",
 				"endTime": "13.55",
 				"aval": "always"
-			}
+			},
 			{
 				"name": "Фізика (ОЗНМ)",
 				"number": "4",
