@@ -55,6 +55,13 @@
 				"startTime": "10.35",
 				"endTime": "12.10",
 				"aval": "odd"
+			},
+			{
+				"name": "Історія університету",
+				"number": "4",
+				"startTime": "14.05",
+				"endTime": "15.40",
+				"aval": "always"
 			}
 		]
 	},
