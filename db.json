@@ -60,6 +60,13 @@
 				"startTime": "10.35",
 				"endTime": "12.10",
 				"aval": "always"
+			},
+						{
+				"name": "Хімія",
+				"number": "3",
+				"startTime": "12.20",
+				"endTime": "13.05",
+				"aval": "always"
 			}
 		]
 	},
