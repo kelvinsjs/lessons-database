@@ -77,21 +77,21 @@
 				"name": "Хімія (ГІС)",
 				"number": "1",
 				"startTime": "8.40",
-				"endTime": "10.15",
+				"endTime": "9.40",
 				"aval": "always"
 			},
 			{
 				"name": "Хімія",
 				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
+				"startTime": "9.50",
+				"endTime": "11.20",
 				"aval": "always"
 			},
 			{
 				"name": "Хімія (ОЗНМ)",
 				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.05",
+				"startTime": "11.30",
+				"endTime": "12.30",
 				"aval": "always"
 			}
 		]
