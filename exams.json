@@ -1,6 +1,6 @@
 ﻿[
     {
-        "examsNow": false,
+        "examsNow": true,
         "exams": [
             {
                 "date": "17.05",
