@@ -2,21 +2,25 @@
         "examsNow": "yes",
         "exams": [
             {
+                "id": "e04ea610-1cb6-43d0-a709-44f69cd9ae4b",
                 "date": "17.05",
                 "time": "9:00",
                 "lesson": "Топографія"
             },
             {
+                "id": "e04ea610-1cb6-43d0-a709-44f69cd9ae4b",
                 "date": "20.05",
                 "time": "9:00",
                 "lesson": "Хімія"
             },
             {
+                "id": "d9eb423e-3317-4b80-a626-0b28b9617360",
                 "date": "24.05",
                 "time": "9:00",
                 "lesson": "Англійська мова"
             },
             {
+                "id": "3baccc2d-fed4-4cd7-b8d8-69859bafc12e",
                 "date": "27.05",
                 "time": "9:00",
                 "lesson": "Лінійна Алгебра"
