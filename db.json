@@ -1,11 +1,5 @@
 [
 	{
-		"id": "8f8acf76b23f43849611d6203328a5fc",
-		"weekday": "Понеділок",
-		"lessons": [
-		]
-	}, 
-	{
 		"id": "8ec1f63d58b8441299d033a9f600808e",
 		"weekday": "14.06 - 27.06 (Географічний ф-т)",
 		"lessons": [
@@ -13,8 +7,8 @@
 				"id": "25117d04575d4dcda6c8f18e134ee326",
 				"name": "Топографічна практика",
 				"number": "1",
-				"startTime": "",
-				"endTime": "",
+				"startTime": "За домов-",
+				"endTime": "леністю",
 				"aval": "always"
 			}
 		]
@@ -27,8 +21,8 @@
 				"id": "56b89ac57e77439d84c769bb9dc77cbf",
 				"name": "Топографічна практика",
 				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
+				"startTime": "За домов-",
+				"endTime": "леністю",
 				"aval": "always"
 			}
 		]
