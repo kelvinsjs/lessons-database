@@ -16,7 +16,7 @@
 				"startTime": "",
 				"endTime": "",
 				"aval": "always"
-			},
+			}
 		]
 	},
 	{
@@ -30,7 +30,7 @@
 				"startTime": "8.40",
 				"endTime": "10.15",
 				"aval": "always"
-			},
+			}
 		]
 	}	
 ]
