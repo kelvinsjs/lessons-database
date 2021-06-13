@@ -8,130 +8,30 @@
 	}, 
 	{
 		"id": "8ec1f63d58b8441299d033a9f600808e",
-		"weekday": "Вівторок",
+		"weekday": "14.06 - 27.06 (Географічний ф-т)",
 		"lessons": [
 			{
 				"id": "25117d04575d4dcda6c8f18e134ee326",
-				"name": "Топографія",
-				"number": "2",
-				"startTime": "10.00",
-				"endTime": "11.20",
-				"aval": "odd"
-			},
-			{
-				"id": "6b4d7ef8d0be43898e7ec2be423aa8b0",
-				"name": "Лінійна алгебра та аналітична геометрія",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
+				"name": "Топографічна практика",
+				"number": "1",
+				"startTime": "",
+				"endTime": "",
 				"aval": "always"
 			},
-			{
-				"id": "1e493b6b4cce4d69bcbd7d252f24e38a",
-				"name": "Лінійна алгебра та аналітична геометрія",
-				"number": "4",
-				"startTime": "14.05",
-				"endTime": "15.40",
-				"aval": "always"
-			}
 		]
 	},
 	{
 		"id": "49e84e16be604192858efd24d7de4045",
-		"weekday": "Середа",
+		"weekday": "28.06 - 25.07 (ін. Геології)",
 		"lessons": [
 			{
 				"id": "56b89ac57e77439d84c769bb9dc77cbf",
-				"name": "Англійська мова",
+				"name": "Топографічна практика",
 				"number": "1",
 				"startTime": "8.40",
 				"endTime": "10.15",
 				"aval": "always"
 			},
-			{
-				"id": "81605b12d7964b3d9a58639cbb18545b",
-				"name": "Англійська мова",
-				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
-				"aval": "always"
-			},
-						{
-							"id": "f7d8a13bb177487392ea53a257ed9163",
-				"name": "Хімія",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "always"
-			}
 		]
-	},
-	{
-		"id": "3423c254f5724255b1a3451e9d17517c",
-		"weekday": "Четвер",
-		"lessons": [
-			{
-				"id": "e9d306c54e274475be1b2c536b0edc4d",
-				"name": "Хімія (ГІС)",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "9.40",
-				"aval": "always"
-			},
-			{
-				"id": "5a455c0bba714cfaa5d8539e0e11179b",
-				"name": "Хімія",
-				"number": "2",
-				"startTime": "9.50",
-				"endTime": "11.20",
-				"aval": "always"
-			},
-			{
-				"id": "3f2b4f85b79240528e0a347cd9b9af13",
-				"name": "Хімія (ОЗНМ)",
-				"number": "3",
-				"startTime": "11.30",
-				"endTime": "12.30",
-				"aval": "always"
-			}
-		]
-	},
-	{
-		"id": "926d90259f73414bb8827ea410c1dec1",
-		"weekday": "П'ятниця",
-		"lessons": [
-			{
-				"id": "970fe0ee39714e01a2fd4a8c71b2e7f8",
-				"name": "Прикладна геоморфологія",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
-				"aval": "always"
-			},
-			{
-				"id": "729f482648894b628ba026d3cbfbef59",
-				"name": "Вступ до університетських студій",
-				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
-				"aval": "always"
-			},
-			{
-				"id": "44df33b647a34d57b5e0a788dfbfa639",
-				"name": "Вступ до університетських студій",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "even"
-			},
-			{
-				"id": "d5cc908e3e504146a64fb6c4e6b0ca9a",
-				"name": "Топографія",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "odd"
-			}
-		]
-	}
+	},	
 ]
