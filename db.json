@@ -1,181 +1,176 @@
 [
-	{
-		"id": "8ec1f63d58b8441299d033a9f600808e",
-		"weekday": "Понеділок",
-		"lessons": [
-			{
-				"id": "25117d04575d4dcda6c8f18e134ee326",
-				"name": "Національна інфраструктура (420 к.)",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
-				"aval": "odd"
-			},
-			{
-				"id": "f43f4f6b-b172-4082-9878-ee4970bea4b1",
-				"name": "ДЗЗ (420 к.)",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
-				"aval": "odd"
-			},
-			{
-				"id": "9cb8f356-5749-4fbd-982c-80a7e4542e3a",
-				"name": "Гідрогеологія (332 к.)",
-				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
-				"aval": "always"
-			},
-			{
-				"id": "c551e8f6-e08e-4ea7-bad4-4849e1a814fb",
-				"name": "Гідрогеологія (330 к.)",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "odd"
-			},
-			{
-				"id": "040def73-ba80-4fe3-ab15-9e904268783c",
-				"name": "Гідрогеологія (112 к.)",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "even"
-			},
-			{
-				"id": "040def73-ba80-4fe3-ab15-9e9042687",
-				"name": "ДЗЗ",
-				"number": "4",
-				"startTime": "14.05",
-				"endTime": "15.40",
-				"aval": "odd"
-			},
-			
-		]
-	},
-        {
-		"id": "3bffae41-18f9-4715-880-a5ef392fe627",
-		"weekday": "Вівторок",
-		"lessons": [
-			{
-				"id": "140babc8-db47-4955-9e13-7ce184264704",
-				"name": "ГІС у науках про Землю (420 к.)",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
-				"aval": "always"
-			},
-			{
-				"id": "140babc8-db47-4955-9e13-7ce18426474",
-				"name": "ГІС у науках про Землю (406 к.)",
-				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
-				"aval": "always"
-			},
-			{
-				"id": "140babc8-db47-4955-9e13-7ce1846474",
-				"name": "Теорія ймовірності (324 к.)",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "always"
-			},
-			
-		]
-	},
-	{
-		"id": "3bffae41-18f9-4715-880-f392fe627",
-		"weekday": "Середа",
-		"lessons": [
-			{
-				"id": "140babc8-db47-4955-9e13704",
-				"name": "Геодезія (геофак)",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
-				"aval": "even"
-			},
-			{
-				"id": "140bab-db47-4955-9e13-7ce18426474",
-				"name": "Геодезія (геофак, 106 к.)",
-				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
-				"aval": "odd"
-			},
-			{
-				"id": "140babc8-db47-4955-9e131846474",
-				"name": "Національна інфраструктура (326 к.)",
-				"number": "4",
-				"startTime": "14.05",
-				"endTime": "15.40",
-				"aval": "odd"
-			},
-						{
-				"id": "140babc8-db47-4955-9e13184eea74",
-				"name": "Теорія ймовірності (324 к.)",
-				"number": "4",
-				"startTime": "14.05",
-				"endTime": "15.40",
-				"aval": "even"
-			},
-			
-		]
-	},
-		{
-		"id": "3bffae41-v6rr-4715-880-f392fe627",
-		"weekday": "Четвер",
-		"lessons": [
-			{
-				"id": "140babc8-db47-4955-9e137404",
-				"name": "Англійська мова (факультатив, 330 к.)",
-				"number": "1",
-				"startTime": "8.40",
-				"endTime": "10.15",
-				"aval": "always"
-			},
-			{
-				"id": "140bab-db47-4955-9e13-7ce18426",
-				"name": "Українська культура (406 к.)",
-				"number": "2",
-				"startTime": "10.35",
-				"endTime": "12.10",
-				"aval": "always"
-			},
-                        {
-				"id": "140babc8-db47-4955-9e6516a74",
-				"name": "Українська культура (332 к.)",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.55",
-				"aval": "even"
-			},
-			
-		]
-	},
-	{
-		"id": "3bffae41-v6rr-4715-880-f66472fe622227",
-		"weekday": "П'ятниця",
-		"lessons": [
-			{
-				"id": "140babc8-db47-6658155-9e13661404",
-				"name": "Програмування",
-				"number": "3",
-				"startTime": "12.20",
-				"endTime": "13.05",
-				"aval": "odd"
-			},
-			{
-				"id": "140babc8-db47-6658155-9e136661ssf61404",
-				"name": "Програмування",
-				"number": "4",
-				"startTime": "14.05",
-				"endTime": "15.40",
-				"aval": "odd"
-			},
-			
-		]
-	},
+   {
+      "id":"8ec1f63d58b8441299d033a9f600808e",
+      "weekday":"Понеділок",
+      "lessons":[
+         {
+            "id":"25117d04575d4dcda6c8f18e134ee326",
+            "name":"Національна інфраструктура (420 к.)",
+            "number":"1",
+            "startTime":"8.40",
+            "endTime":"10.15",
+            "aval":"odd"
+         },
+         {
+            "id":"f43f4f6b-b172-4082-9878-ee4970bea4b1",
+            "name":"ДЗЗ (420 к.)",
+            "number":"1",
+            "startTime":"8.40",
+            "endTime":"10.15",
+            "aval":"odd"
+         },
+         {
+            "id":"9cb8f356-5749-4fbd-982c-80a7e4542e3a",
+            "name":"Гідрогеологія (332 к.)",
+            "number":"2",
+            "startTime":"10.35",
+            "endTime":"12.10",
+            "aval":"always"
+         },
+         {
+            "id":"c551e8f6-e08e-4ea7-bad4-4849e1a814fb",
+            "name":"Гідрогеологія (330 к.)",
+            "number":"3",
+            "startTime":"12.20",
+            "endTime":"13.55",
+            "aval":"odd"
+         },
+         {
+            "id":"040def73-ba80-4fe3-ab15-9e904268783c",
+            "name":"Гідрогеологія (112 к.)",
+            "number":"3",
+            "startTime":"12.20",
+            "endTime":"13.55",
+            "aval":"even"
+         },
+         {
+            "id":"040def73-ba80-4fe3-ab15-9e9042687",
+            "name":"ДЗЗ",
+            "number":"4",
+            "startTime":"14.05",
+            "endTime":"15.40",
+            "aval":"odd"
+         }
+      ]
+   },
+   {
+      "id":"3bffae41-18f9-4715-880-a5ef392fe627",
+      "weekday":"Вівторок",
+      "lessons":[
+         {
+            "id":"140babc8-db47-4955-9e13-7ce184264704",
+            "name":"ГІС у науках про Землю (420 к.)",
+            "number":"1",
+            "startTime":"8.40",
+            "endTime":"10.15",
+            "aval":"always"
+         },
+         {
+            "id":"140babc8-db47-4955-9e13-7ce18426474",
+            "name":"ГІС у науках про Землю (406 к.)",
+            "number":"2",
+            "startTime":"10.35",
+            "endTime":"12.10",
+            "aval":"always"
+         },
+         {
+            "id":"140babc8-db47-4955-9e13-7ce1846474",
+            "name":"Теорія ймовірності (324 к.)",
+            "number":"3",
+            "startTime":"12.20",
+            "endTime":"13.55",
+            "aval":"always"
+         }
+      ]
+   },
+   {
+      "id":"3bffae41-18f9-4715-880-f392fe627",
+      "weekday":"Середа",
+      "lessons":[
+         {
+            "id":"140babc8-db47-4955-9e13704",
+            "name":"Геодезія (геофак)",
+            "number":"1",
+            "startTime":"8.40",
+            "endTime":"10.15",
+            "aval":"even"
+         },
+         {
+            "id":"140bab-db47-4955-9e13-7ce18426474",
+            "name":"Геодезія (геофак, 106 к.)",
+            "number":"2",
+            "startTime":"10.35",
+            "endTime":"12.10",
+            "aval":"odd"
+         },
+         {
+            "id":"140babc8-db47-4955-9e131846474",
+            "name":"Національна інфраструктура (326 к.)",
+            "number":"4",
+            "startTime":"14.05",
+            "endTime":"15.40",
+            "aval":"odd"
+         },
+         {
+            "id":"140babc8-db47-4955-9e13184eea74",
+            "name":"Теорія ймовірності (324 к.)",
+            "number":"4",
+            "startTime":"14.05",
+            "endTime":"15.40",
+            "aval":"even"
+         }
+      ]
+   },
+   {
+      "id":"3bffae41-v6rr-4715-880-f392fe627",
+      "weekday":"Четвер",
+      "lessons":[
+         {
+            "id":"140babc8-db47-4955-9e137404",
+            "name":"Англійська мова (факультатив, 330 к.)",
+            "number":"1",
+            "startTime":"8.40",
+            "endTime":"10.15",
+            "aval":"always"
+         },
+         {
+            "id":"140bab-db47-4955-9e13-7ce18426",
+            "name":"Українська культура (406 к.)",
+            "number":"2",
+            "startTime":"10.35",
+            "endTime":"12.10",
+            "aval":"always"
+         },
+         {
+            "id":"140babc8-db47-4955-9e6516a74",
+            "name":"Українська культура (332 к.)",
+            "number":"3",
+            "startTime":"12.20",
+            "endTime":"13.55",
+            "aval":"even"
+         }
+      ]
+   },
+   {
+      "id":"3bffae41-v6rr-4715-880-f66472fe622227",
+      "weekday":"П'ятниця",
+      "lessons":[
+         {
+            "id":"140babc8-db47-6658155-9e13661404",
+            "name":"Програмування",
+            "number":"3",
+            "startTime":"12.20",
+            "endTime":"13.05",
+            "aval":"odd"
+         },
+         {
+            "id":"140babc8-db47-6658155-9e136661ssf61404",
+            "name":"Програмування",
+            "number":"4",
+            "startTime":"14.05",
+            "endTime":"15.40",
+            "aval":"odd"
+         }
+      ]
+   }
 ]
