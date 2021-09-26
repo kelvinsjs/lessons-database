@@ -91,16 +91,16 @@
             "id":"140babc8-db47-4955-9e13704",
             "name":"Геодезія (геофак)",
             "number":"1",
-            "startTime":"8.40",
-            "endTime":"10.15",
+            "startTime":"10.00",
+            "endTime":"11.20",
             "aval":"even"
          },
          {
             "id":"140bab-db47-4955-9e13-7ce18426474",
-            "name":"Геодезія (геофак, 106 к.)",
+            "name":"Фотограмметрія (геофак, 106 к.)",
             "number":"2",
-            "startTime":"10.35",
-            "endTime":"12.10",
+            "startTime":"11.30",
+            "endTime":"12.50",
             "aval":"odd"
          },
          {
