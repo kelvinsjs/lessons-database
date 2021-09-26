@@ -159,16 +159,16 @@
             "id":"140babc8-db47-6658155-9e13661404",
             "name":"Програмування",
             "number":"3",
-            "startTime":"12.20",
-            "endTime":"13.05",
+            "startTime":"10.35",
+            "endTime":"12.10",
             "aval":"odd"
          },
          {
             "id":"140babc8-db47-6658155-9e136661ssf61404",
             "name":"Програмування",
             "number":"4",
-            "startTime":"14.05",
-            "endTime":"15.40",
+            "startTime":"12.20",
+            "endTime":"13.55",
             "aval":"odd"
          }
       ]
