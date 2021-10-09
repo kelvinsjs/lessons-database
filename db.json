@@ -148,6 +148,14 @@
             "startTime":"12.20",
             "endTime":"13.55",
             "aval":"even"
+         },
+         {
+            "id":"140babc8-db47-4qw955-9e6516a74",
+            "name":"Геодезія (практ, геофак)",
+            "number":"4",
+            "startTime":"14.05",
+            "endTime":"15.40",
+            "aval":"even"
          }
       ]
    },
@@ -156,9 +164,17 @@
       "weekday":"П'ятниця",
       "lessons":[
          {
+            "id":"140babc8-db47-6658155-9e158ааа3661404",
+            "name":"Фотограмметрія",
+            "number":"1",
+            "startTime":"8.40",
+            "endTime":"10.15",
+            "aval":"odd"
+         },
+         {
             "id":"140babc8-db47-6658155-9e13661404",
             "name":"Програмування",
-            "number":"3",
+            "number":"2",
             "startTime":"10.35",
             "endTime":"12.10",
             "aval":"odd"
