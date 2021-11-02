@@ -131,7 +131,7 @@
             "number":"1",
             "startTime":"8.40",
             "endTime":"10.15",
-            "aval":"always"
+            "aval":"even"
          },
          {
             "id":"140bab-db47-4955-9e13-7ce18426",
@@ -150,12 +150,20 @@
             "aval":"even"
          },
          {
+            "id":"140babc8-db47-4fd55955-9e137404",
+            "name":"Англійська мова (факультатив, 330 к.)",
+            "number":"3",
+            "startTime":"12.20",
+            "endTime":"13.55",
+            "aval":"odd"
+         },
+         {
             "id":"140babc8-db47-4qw955-9ffe6516a74",
             "name":"Геодезія (практ, геофак)",
             "number":"4",
             "startTime":"14.05",
             "endTime":"15.40",
-            "aval":"all"
+            "aval":"always"
          }
       ]
    },
@@ -169,7 +177,7 @@
             "number":"1",
             "startTime":"8.40",
             "endTime":"10.15",
-            "aval":"all"
+            "aval":"always"
          },
          {
             "id":"140babc8-db47-6658155-9e13661404",
