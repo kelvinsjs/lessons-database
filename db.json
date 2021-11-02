@@ -58,27 +58,27 @@
       "weekday":"Вівторок",
       "lessons":[
          {
-            "id":"140babc8-db47-4955-9e13-7ce184264704",
-            "name":"ГІС у науках про Землю (420 к.)",
-            "number":"1",
-            "startTime":"8.40",
-            "endTime":"10.15",
-            "aval":"always"
-         },
-         {
-            "id":"140babc8-db47-4955-9e13-7ce18426474",
-            "name":"ГІС у науках про Землю (406 к.)",
-            "number":"2",
-            "startTime":"10.35",
-            "endTime":"12.10",
-            "aval":"always"
-         },
-         {
             "id":"140babc8-db47-4955-9e13-7ce1846474",
             "name":"Теорія ймовірності (324 к.)",
             "number":"3",
             "startTime":"12.20",
             "endTime":"13.55",
+            "aval":"always"
+         },
+         {
+            "id":"140babc8-db47-4955-9e13-7ce184264704",
+            "name":"ГІС у науках про Землю (420 к.)",
+            "number":"4",
+            "startTime":"14.05",
+            "endTime":"15.40",
+            "aval":"always"
+         },
+         {
+            "id":"140babcaa8-db47-4955-9e13-7ce18426474",
+            "name":"ГІС у науках про Землю (406 к.)",
+            "number":"5",
+            "startTime":"15.50",
+            "endTime":"17.25",
             "aval":"always"
          }
       ]
@@ -150,12 +150,12 @@
             "aval":"even"
          },
          {
-            "id":"140babc8-db47-4qw955-9e6516a74",
+            "id":"140babc8-db47-4qw955-9ffe6516a74",
             "name":"Геодезія (практ, геофак)",
             "number":"4",
             "startTime":"14.05",
             "endTime":"15.40",
-            "aval":"even"
+            "aval":"all"
          }
       ]
    },
@@ -164,12 +164,12 @@
       "weekday":"П'ятниця",
       "lessons":[
          {
-            "id":"140babc8-db47-6658155-9e158ааа3661404",
+            "id":"140babc8-db47-6d658155-9e158ааа3661404",
             "name":"Фотограмметрія",
             "number":"1",
             "startTime":"8.40",
             "endTime":"10.15",
-            "aval":"odd"
+            "aval":"all"
          },
          {
             "id":"140babc8-db47-6658155-9e13661404",
