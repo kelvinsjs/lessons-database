@@ -5,51 +5,19 @@
       "lessons":[
          {
             "id":"25117d04575d4dcda6c8f18e134ee326",
-            "name":"Національна інфраструктура (420 к.)",
+            "name":"Інженерна геологія",
             "number":"1",
             "startTime":"8.40",
             "endTime":"10.15",
-            "aval":"odd"
-         },
-         {
-            "id":"f43f4f6b-b172-4082-9878-ee4970bea4b1",
-            "name":"ДЗЗ (420 к.)",
-            "number":"1",
-            "startTime":"8.40",
-            "endTime":"10.15",
-            "aval":"even"
+            "aval":"always"
          },
          {
             "id":"9cb8f356-5749-4fbd-982c-80a7e4542e3a",
-            "name":"Гідрогеологія (332 к.)",
+            "name":"Основи екології",
             "number":"2",
             "startTime":"10.35",
             "endTime":"12.10",
             "aval":"always"
-         },
-         {
-            "id":"c551e8f6-e08e-4ea7-bad4-4849e1a814fb",
-            "name":"Гідрогеологія (330 к.)",
-            "number":"3",
-            "startTime":"12.20",
-            "endTime":"13.55",
-            "aval":"odd"
-         },
-         {
-            "id":"040def73-ba80-4fe3-ab15-9e904268783c",
-            "name":"Гідрогеологія (112 к.)",
-            "number":"3",
-            "startTime":"12.20",
-            "endTime":"13.55",
-            "aval":"even"
-         },
-         {
-            "id":"040def73-ba80-4fe3-ab15-9e9042687",
-            "name":"ДЗЗ",
-            "number":"4",
-            "startTime":"14.05",
-            "endTime":"15.40",
-            "aval":"odd"
          }
       ]
    },
@@ -59,26 +27,34 @@
       "lessons":[
          {
             "id":"140babc8-db47-4955-9e13-7ce1846474",
-            "name":"Теорія ймовірності (324 к.)",
+            "name":"Геодезія",
+            "number":"1",
+            "startTime":"8.30",
+            "endTime":"9.50",
+            "aval":"always"
+         },
+         {
+            "id":"140babc8-db47-4955-9e13-7ce184264704",
+            "name":"ДЗЗ (лаб.)",
+            "number":"2",
+            "startTime":"10.35",
+            "endTime":"12.10",
+            "aval":"always"
+         },
+         {
+            "id":"140babcaa8-db47-4955-9e1ww3-7ce18426474",
+            "name":"ДЗЗ (лекція)",
             "number":"3",
             "startTime":"12.20",
             "endTime":"13.55",
             "aval":"always"
          },
          {
-            "id":"140babc8-db47-4955-9e13-7ce184264704",
-            "name":"ГІС у науках про Землю (420 к.)",
+            "id":"140babcaa8-db47-4955-98833e13-7ce18426474",
+            "name":"Англійська мова",
             "number":"4",
             "startTime":"14.05",
             "endTime":"15.40",
-            "aval":"always"
-         },
-         {
-            "id":"140babcaa8-db47-4955-9e13-7ce18426474",
-            "name":"ГІС у науках про Землю (406 к.)",
-            "number":"5",
-            "startTime":"15.50",
-            "endTime":"17.25",
             "aval":"always"
          }
       ]
@@ -88,46 +64,38 @@
       "weekday":"Середа",
       "lessons":[
          {
-            "id":"140babc8-db47-4955-9e13704",
+            "id":"140babc8-db47-4955-9e137033334",
             "name":"Геодезія (геофак)",
             "number":"1",
-            "startTime":"10.00",
-            "endTime":"11.20",
-            "aval":"even"
+            "startTime":"8.30",
+            "endTime":"9.50",
+            "aval":"always"
          },
          {
             "id":"140bab-db47-4955-9e13-7ce18426474",
-            "name":"Фотограмметрія (геофак, 106 к.)",
+            "name":"Фотограмметрія (геофак)",
             "number":"2",
-            "startTime":"11.30",
-            "endTime":"12.50",
+            "startTime":"10.00",
+            "endTime":"11.20",
             "aval":"odd"
          },
          {
             "id":"140babc8-db47-4955-9e131846474",
-            "name":"Національна інфраструктура (326 к.)",
-            "number":"4",
-            "startTime":"14.05",
-            "endTime":"15.40",
-            "aval":"odd"
-         },
-         {
-            "id":"140babc8-db47-4955-9e13184eea74",
-            "name":"Теорія ймовірності (324 к.)",
-            "number":"4",
-            "startTime":"14.05",
-            "endTime":"15.40",
-            "aval":"even"
+            "name":"Фотограмметрія",
+            "number":"3",
+            "startTime":"11.30",
+            "endTime":"12.50",
+            "aval":"always"
          }
       ]
    },
    {
-      "id":"3bffae41-v6rr-4715-880-f392fe627",
+      "id":"3bffae41-v622rr-4715-880-f392fe627",
       "weekday":"Четвер",
       "lessons":[
          {
-            "id":"140babc8-db47-4955-9e137404",
-            "name":"Англійська мова (факультатив, 330 к.)",
+            "id":"140babc8-d3b47-4955-9e137404",
+            "name":"Інженерна геологія",
             "number":"1",
             "startTime":"8.40",
             "endTime":"10.15",
@@ -135,7 +103,7 @@
          },
          {
             "id":"140bab-db47-4955-9e13-7ce18426",
-            "name":"Українська культура (406 к.)",
+            "name":"Соціальні студії",
             "number":"2",
             "startTime":"10.35",
             "endTime":"12.10",
@@ -143,27 +111,19 @@
          },
          {
             "id":"140babc8-db47-4955-9e6516a74",
-            "name":"Українська культура (332 к.)",
+            "name":"Трудове право",
             "number":"3",
             "startTime":"12.20",
             "endTime":"13.55",
-            "aval":"even"
+            "aval":"always"
          },
          {
             "id":"140babc8-db47-4fd55955-9e137404",
-            "name":"Англійська мова (факультатив, 330 к.)",
-            "number":"3",
-            "startTime":"12.20",
-            "endTime":"13.55",
-            "aval":"odd"
-         },
-         {
-            "id":"140babc8-db47-4qw955-9ffe6516a74",
-            "name":"Геодезія (практ, геофак)",
+            "name":"Трудове право",
             "number":"4",
             "startTime":"14.05",
             "endTime":"15.40",
-            "aval":"always"
+            "aval":"even"
          }
       ]
    },
@@ -171,30 +131,6 @@
       "id":"3bffae41-v6rr-4715-880-f66472fe622227",
       "weekday":"П'ятниця",
       "lessons":[
-         {
-            "id":"140babc8-db47-6d658155-9e158ааа3661404",
-            "name":"Фотограмметрія",
-            "number":"1",
-            "startTime":"8.40",
-            "endTime":"10.15",
-            "aval":"always"
-         },
-         {
-            "id":"140babc8-db47-6658155-9e13661404",
-            "name":"Програмування",
-            "number":"2",
-            "startTime":"10.35",
-            "endTime":"12.10",
-            "aval":"odd"
-         },
-         {
-            "id":"140babc8-db47-6658155-9e136661ssf61404",
-            "name":"Програмування",
-            "number":"4",
-            "startTime":"12.20",
-            "endTime":"13.55",
-            "aval":"odd"
-         }
       ]
    }
 ]
